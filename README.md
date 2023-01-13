@@ -1,4 +1,4 @@
-# kit-ernetes, featuring Rancher!
+# ***kit**-ernetes, featuring Rancher!*
 
 #### Zack Brady, Field Engineer, Rancher Government Solutions (RGS)
 #### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@rancherfederal.com - https://rancher.com/government
@@ -6,8 +6,6 @@
 <br>
 
 ![rancher-long-banner](/images/rgs-banner-rounded.png)
-
-<br>
 
 ### **Welcome to the official documentation for *kit-ernetes*!!**
 ### ... featuring the complete Rancher stack!
