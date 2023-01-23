@@ -1,23 +1,21 @@
-# kit-ernetes, featuring Rancher!
-
 #### Zack Brady, Field Engineer, Rancher Government Solutions (RGS)
 #### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@rancherfederal.com - https://rancher.com/government
 
-
 ![rancher-long-banner](/images/rgs-banner-rounded.png)
 
+# **Welcome to the official overview for *kit-ernetes*!!**
 
-### **Welcome to the official documentation for *kit-ernetes*!!**
+### Table of Contents
+  * [About Me](#about-me)
+  * [Overview](#overview)
+  * [Architecture](#architecture)
+  * [Equipment and Parts](#equipment-and-parts)
+  * [Installs and Deployments](#installs-and-deployments)
+  * [Setup and Configuration](#setup-and-configuration)
+  * [Final Thoughts](#final-thoughts)
+  * [Conclusion](#conclusion)
 
-... featuring the complete Rancher stack!
-- RKE2 (Kubernetes Engine) - [click learn more](https://www.rancher.com/products/rke)
-- Rancher MCM (Cluster Management) - [click to learn more](https://www.rancher.com/products/rancher)
-- Longhorn (Storage) - [click to learn more](https://www.rancher.com/products/longhorn)
-- Neuvector (Security) - [click to learn more](https://ranchergovernment.com/neuvector)
-- and various minor tools/dependencies (more info below)
-
-
-## Introduction
+## About Me
 
 A little bit about me, my history, and what I've done in the industry. 
 - DOD/IC Contractor
@@ -26,12 +24,45 @@ A little bit about me, my history, and what I've done in the industry.
 - Built and Exited a Digital Firm
 - Active Volunteer Firefighter/EMT
 
-
 ## Overview
 
-kit-ernetes is a set of scalable, tactical, and deployable backpack kits, featuring the complete Rancher stack.
+**kit-ernetes is a set of scalable, tactical, and deployable backpack kits, featuring the complete Rancher stack.**
 
-*So what does that mean?*
+- Harvester (HCI/VMs) - [click to learn more](https://www.rancher.com/products/harvester)
+- RKE2 (Kubernetes Engine) - [click to learn more](https://www.rancher.com/products/rke)
+- Rancher MCM (Cluster Management) - [click to learn more](https://www.rancher.com/products/rancher)
+- Longhorn (Storage) - [click to learn more](https://www.rancher.com/products/longhorn)
+- Neuvector (Security) - [click to learn more](https://ranchergovernment.com/neuvector)
+- and various minor tools/dependencies (more info below)
+
+### *So what does that mean?*
+
+At a basic level, kit-ernetes is a five node kuberenetes cluster.
+
+At a complex level, kit-ernetes is a
 
 
-more coming soon
+## Architecture
+
+
+
+## Equipment and Parts
+
+![kiternetes-kit-parts](/images/kiternetes-kit-parts.JPG)
+
+
+## Installs and Deployments
+
+
+
+## Setup and Configuration
+
+
+
+## Final Thoughts
+
+
+
+## Conclusion
+
+
