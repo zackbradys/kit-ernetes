@@ -28,9 +28,9 @@ A little bit about me, my history, and what I've done in the industry.
 
 **kit-ernetes is a set of scalable, tactical, and deployable backpack kits, featuring the complete Rancher stack.**
 
-- Harvester (HCI/VMs) - [click to learn more](https://www.rancher.com/products/harvester)
+- Harvester (HCI) - [click to learn more](https://www.rancher.com/products/harvester)
 - RKE2 (Kubernetes Engine) - [click to learn more](https://www.rancher.com/products/rke)
-- Rancher MCM (Cluster Management) - [click to learn more](https://www.rancher.com/products/rancher)
+- Rancher Manager (Cluster Management) - [click to learn more](https://www.rancher.com/products/rancher)
 - Longhorn (Storage) - [click to learn more](https://www.rancher.com/products/longhorn)
 - Neuvector (Security) - [click to learn more](https://ranchergovernment.com/neuvector)
 - and various minor tools/dependencies (more info below)
