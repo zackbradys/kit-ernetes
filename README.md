@@ -48,8 +48,11 @@ At a complex level, kit-ernetes is a
 
 ## Equipment and Parts
 
-![kiternetes-kit-parts](/images/kiternetes-kit-parts.JPG)
+![kiternetes-kit-parts](/images/kiternetes-kit-parts.jpg)
 
+Kit-Ernetes Kits             |  Kit-Ernetes Parts
+:-------------------------:|:-------------------------:
+![test](/images/kiternetes-parts-kits.jpg) |  ![test](/images/kiternetes-parts-accessories.jpg)
 
 ## Installs and Deployments
 
