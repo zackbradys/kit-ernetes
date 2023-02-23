@@ -26,7 +26,7 @@ A little bit about me, my history, and what I've done in the industry.
 
 ## Overview
 
-**kit-ernetes is a set of scalable, tactical, and deployable backpack kits, featuring the complete Rancher stack.**
+**kiternetes is a set of scalable, tactical, and deployable backpack kits, featuring the complete Rancher stack.**
 
 - Harvester (HCI) - [click to learn more](https://www.rancher.com/products/harvester)
 - RKE2 (Kubernetes Engine) - [click to learn more](https://www.rancher.com/products/rke)
@@ -37,9 +37,9 @@ A little bit about me, my history, and what I've done in the industry.
 
 ### *So what does that mean?*
 
-At a basic level, kit-ernetes is a five node kuberenetes cluster.
+At a basic level, kiternetes is a five node kuberenetes cluster.
 
-At a complex level, kit-ernetes is a
+At a complex level, kiternetes is a
 
 
 ## Architecture
@@ -48,11 +48,10 @@ At a complex level, kit-ernetes is a
 
 ## Equipment and Parts
 
-![kiternetes-kit-parts](/images/kiternetes-kit-parts.jpg)
-
-Kit-Ernetes Kits             |  Kit-Ernetes Parts
+Physical Kits        |         Accessories
 :-------------------------:|:-------------------------:
 ![test](/images/kiternetes-parts-kits.jpg) |  ![test](/images/kiternetes-parts-accessories.jpg)
+
 
 ## Installs and Deployments
 
