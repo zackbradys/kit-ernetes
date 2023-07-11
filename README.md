@@ -1,5 +1,5 @@
 #### Zack Brady, Field Engineer, Rancher Government Solutions (RGS)
-#### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@rancherfederal.com - https://rancher.com/government
+#### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@ranchergovernment.com - https://rancher.com/government
 
 ![rancher-long-banner](/images/rgs-banner-rounded.png)
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-A little bit about me, my history, and what I've done in the industry. 
+A little bit about me, my history, and what I've done in the industry.
 - DOD/IC Contractor
 - U.S. Military Veteran
 - Open-Source Contributor
