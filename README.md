@@ -1,7 +1,7 @@
 #### Zack Brady, Field Engineer, Rancher Government Solutions (RGS)
 #### [@zackbradys](https://twitter.com/zackbradys) - zack.brady@ranchergovernment.com - https://rancher.com/government
 
-![rancher-long-banner](/images/rgs-banner-rounded.png)
+![rancher-long-banner](images/rgs-banner-rounded.png)
 
 # **Welcome to the official overview for *kit-ernetes*!!**
 
@@ -50,7 +50,7 @@ At a complex level, kiternetes is a
 
 Physical Kits        |         Accessories
 :-------------------------:|:-------------------------:
-![test](/images/kiternetes-parts-kits.jpg) |  ![test](/images/kiternetes-parts-accessories.jpg)
+![test](images/kiternetes-parts-kits.jpg) |  ![test](images/kiternetes-parts-accessories.jpg)
 
 
 ## Installs and Deployments
