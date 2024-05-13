@@ -17,7 +17,8 @@
 
 ## About Me
 
-A little bit about me, my history, and what I've done in the industry.
+A little bit about me and my history...
+
 - Former Contractor
 - U.S. Military Reservist
 - Open-Source Contributor
