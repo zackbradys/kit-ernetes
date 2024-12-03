@@ -51,7 +51,12 @@ At a complex level, kiternetes is a
 
 Physical Kits        |         Accessories
 :-------------------------:|:-------------------------:
-![test](images/kiternetes-parts-kits.jpg) |  ![test](images/kiternetes-parts-accessories.jpg)
+
+
+
+![kiternetes-kits-photo](images/kiternetes-parts-kits.jpg)
+
+![kiternetes-accessories-photo](images/kiternetes-parts-accessories.jpg)
 
 
 ## Installs and Deployments
